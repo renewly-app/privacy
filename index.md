@@ -7,7 +7,7 @@ title: Privacy Policy – Renewly
 Last updated: August 24, 2026
 
 This privacy policy applies to the Android app **Renewly**
-(package ID: `com.renewly.app`).
+(package ID: `com.renewly.subscriptions`).
 
 ## 1. Data Controller
 
