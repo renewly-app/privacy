@@ -50,6 +50,21 @@ directly to your own Google Drive account via Google-authorized
 OAuth. The backup file is stored in your own Drive storage; the
 developer has no access to it.
 
+### 3.4 Currency Conversion (Exchange Rates)
+
+If you use the Insights screen to display totals in a currency other
+than the one a subscription was entered in, the app fetches current
+exchange rates from the free, keyless Frankfurter API
+(`api.frankfurter.app`, based on European Central Bank reference
+rates) over the internet. The purpose of this request is solely to
+convert amounts between currencies for display; no subscription data
+or other personal data is included in or derived from this request,
+only the currency codes needed to look up a rate. As with any network
+request, your device's IP address is technically visible to the
+Frankfurter service as the operator of that API, independent of the
+developer. Fetched rates are cached locally on your device for 24
+hours to minimize how often this request is made.
+
 ## 4. Permissions
 
 The app requests the following permission:
@@ -57,6 +72,7 @@ The app requests the following permission:
 | Permission | Purpose |
 |---|---|
 | **Notifications** (`android.permission.POST_NOTIFICATIONS`) | Used to remind you before a subscription renews. Reminders are scheduled entirely on your device. |
+| **Internet** (`android.permission.INTERNET`) | Used for Google Play Billing, the optional Google Drive backup, and fetching exchange rates for currency conversion (see 3.2–3.4). |
 
 No other permissions are requested.
 
@@ -64,8 +80,10 @@ No other permissions are requested.
 
 The app uses **Google Play Billing** to process premium purchases,
 and, only if you opt in, the **Google Drive API** for backup/restore.
-No advertising, tracking, or analytics/statistics SDKs are used
-(e.g. no Google Analytics, Firebase Analytics, or similar).
+It also uses the **Frankfurter API** to fetch exchange rates for
+currency conversion in the Insights screen (see 3.4). No advertising,
+tracking, or analytics/statistics SDKs are used (e.g. no Google
+Analytics, Firebase Analytics, or similar).
 
 ## 6. Storage and Disclosure
 
