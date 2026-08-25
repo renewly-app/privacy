@@ -4,7 +4,7 @@ title: Privacy Policy – Renewly
 
 # Privacy Policy – Renewly
 
-Last updated: August 24, 2026
+Last updated: August 25, 2026
 
 This privacy policy applies to the Android app **Renewly**
 (package ID: `com.renewly.subscriptions`).
@@ -104,3 +104,14 @@ app and in the Play Store listing.
 
 For privacy-related questions, please contact:
 FsNaviVfr@gmail.com
+
+## 11. Trademarks
+
+Renewly lets you track subscriptions to third-party services (for
+example Netflix, Spotify, or similar). Any product names, logos, and
+brands referenced or selectable within the app are the property of
+their respective owners. Company, product, and service names used in
+the app are for identification purposes only and do not imply any
+affiliation, sponsorship, or endorsement by those companies. You are
+always free to enter a custom subscription name instead of choosing
+from the predefined list.
