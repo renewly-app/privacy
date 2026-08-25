@@ -43,14 +43,7 @@ that processing — the developer only receives a purchase
 confirmation (order ID / purchase token), never payment details. See
 Google's Privacy Policy: https://policies.google.com/privacy
 
-### 3.3 Optional Google Drive Backup
-
-If you choose to use the optional backup feature, the app connects
-directly to your own Google Drive account via Google-authorized
-OAuth. The backup file is stored in your own Drive storage; the
-developer has no access to it.
-
-### 3.4 Currency Conversion (Exchange Rates)
+### 3.3 Currency Conversion (Exchange Rates)
 
 If you use the Insights screen to display totals in a currency other
 than the one a subscription was entered in, the app fetches current
@@ -72,18 +65,26 @@ The app requests the following permission:
 | Permission | Purpose |
 |---|---|
 | **Notifications** (`android.permission.POST_NOTIFICATIONS`) | Used to remind you before a subscription renews. Reminders are scheduled entirely on your device. |
-| **Internet** (`android.permission.INTERNET`) | Used for Google Play Billing, the optional Google Drive backup, and fetching exchange rates for currency conversion (see 3.2–3.4). |
+| **Internet** (`android.permission.INTERNET`) | Used for Google Play Billing and fetching exchange rates for currency conversion (see 3.2–3.3). |
 
 No other permissions are requested.
 
 ## 5. Third-Party Services
 
 The app uses **Google Play Billing** to process premium purchases,
-and, only if you opt in, the **Google Drive API** for backup/restore.
-It also uses the **Frankfurter API** to fetch exchange rates for
-currency conversion in the Insights screen (see 3.4). No advertising,
+and the **Frankfurter API** to fetch exchange rates for currency
+conversion in the Insights screen (see 3.3). No advertising,
 tracking, or analytics/statistics SDKs are used (e.g. no Google
 Analytics, Firebase Analytics, or similar).
+
+The app also supports Android's built-in Auto Backup, which — if
+enabled on your device — automatically backs up the app's local
+database to your own Google Account as part of the standard Android
+OS backup service. This happens entirely between your device and
+your Google Account; the developer has no access to this backup.
+See Google's documentation on
+[Android Auto Backup](https://developer.android.com/identity/data/autobackup)
+for details, and Android's device backup settings to control it.
 
 ## 6. Storage and Disclosure
 
