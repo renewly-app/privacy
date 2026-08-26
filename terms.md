@@ -4,7 +4,7 @@ title: Terms of Use – Renewly
 
 # Terms of Use – Renewly
 
-Last updated: August 26, 2026
+Last updated: August 27, 2026
 
 These Terms of Use apply to the Android app **Renewly** (package ID:
 `com.renewly.subscriptions`), provided by:
@@ -35,12 +35,11 @@ Play Store listing before purchase.
 
 ## 3. Purchases via Google Play Billing
 
-All in-app purchases are processed exclusively through Google Play
-Billing. Google acts as the payment processor and, in most
-jurisdictions, as the merchant of record for the transaction. Google's
-own terms and refund policy
-(https://support.google.com/googleplay/answer/2479637) govern the
-payment transaction itself, including Google's own refund process.
+All in-app purchases are processed through Google Play Billing.
+Payment processing and subscription management are subject to the
+applicable [Google Play terms and refund policy](https://support.google.com/googleplay/answer/2479637).
+Your rights against us under applicable law, including any statutory
+right of withdrawal (see Section 4), remain unaffected.
 
 ## 4. Right of Withdrawal
 
@@ -103,10 +102,19 @@ foreseeable, typically occurring damage.
 
 ## 8. Changes to These Terms
 
-We may update these Terms of Use, for example due to changes in the
-app's functionality or legal requirements. The current version is
-always available via the link provided in the app and in the Play
-Store listing.
+We may update these Terms of Use where reasonably necessary, for
+example due to changes in the app's functionality, technical
+developments, or legal requirements.
+
+Changes apply to future use of the app and future purchases. Where
+applicable law requires your consent for a change affecting an
+existing contractual relationship (for example, an active Premium
+subscription), we will only apply that change with your consent, or
+as otherwise permitted by law. Where required, we will notify you of
+material changes in an appropriate manner.
+
+The current version of these Terms is always available via the link
+provided in the app and in the Play Store listing.
 
 ## 9. Governing Law
 
