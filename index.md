@@ -61,8 +61,8 @@ queries your purchase status directly from Google Play each time it
 starts. This purchase information is not transmitted to the developer
 — there is no developer-operated server to receive it — and is not
 stored on your device either; it is only held in memory for the
-current app session. See Google's Privacy Policy:
-https://policies.google.com/privacy
+current app session. See
+[Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### 3.3 Currency Conversion (Exchange Rates)
 
