@@ -42,30 +42,28 @@ own terms and refund policy
 (https://support.google.com/googleplay/answer/2479637) govern the
 payment transaction itself, including Google's own refund process.
 
-## 4. Right of Withdrawal (Digital Content)
+## 4. Right of Withdrawal
 
-As a consumer within the EU, you generally have a 14-day right of
-withdrawal for online purchases, including digital content and
-digital services, under the EU Consumer Rights Directive
-(2011/83/EU) as implemented in German law (§ 312g, § 355, § 356(5)
-BGB).
+If you are a consumer and applicable law grants you a right of
+withdrawal, you may generally withdraw from a qualifying purchase
+within 14 days.
 
-**This right of withdrawal expires early**, however, if:
+The availability, scope, and possible early expiry of any right of
+withdrawal depend on the nature of the purchased digital product and
+the applicable law.
 
-- you expressly request that performance begin before the end of the
-  14-day withdrawal period (for example, by wanting Premium unlocked
-  immediately after purchase rather than waiting 14 days), and
-- you confirm that you are aware that, by giving this consent, you
-  lose your right of withdrawal once the service has been fully
-  performed.
+Where the legal requirements for an early expiry of the right of
+withdrawal are met, including any required express consent and
+acknowledgement by you, the right of withdrawal may expire before the
+end of the 14-day period.
 
-The Google Play purchase flow will ask you to confirm this before
-your purchase completes. If you did not give this consent, or the
-service has not yet been fully performed, you may exercise your
-right of withdrawal within 14 days of purchase by contacting us at
-the email address above. Because Google processes the actual
-payment, please also request a refund through Google Play (see
-Section 3) so the charge itself can be reversed.
+Purchases are processed through Google Play Billing. Refund requests
+and payment-related processing are subject to Google's applicable
+terms and refund procedures (see Section 3). This does not affect any
+mandatory statutory consumer rights you may have against us.
+
+To exercise a statutory right of withdrawal against us, please contact
+us at the email address above.
 
 ## 5. Subscription Renewal & Cancellation
 
@@ -76,17 +74,23 @@ which takes effect at the end of the current billing period.
 Cancelling does not retroactively refund the current billing period
 unless you are entitled to a withdrawal under Section 4.
 
-## 6. Local Data & No Warranty of Data Preservation
+## 6. Local Data and Data Preservation
 
 Renewly stores the subscription data you enter locally on your device
-and does not upload it to servers operated by the developer (see our
-[Privacy Policy](index.md) for details on Android's Auto Backup
-feature, which may back up this data to your Google Account). We
-provide the app "as is" and do not
-warrant that your data will never be lost — for example, if you
-uninstall the app, lose your device, or clear app data at the OS
-level. We recommend not relying on Renewly as your sole record of any
-contractual subscription obligations you track in it.
+and does not upload it to servers operated by the developer. Please
+see our [Privacy Policy](index.md) for details on Android's Auto
+Backup feature, which may back up this data to your Google Account.
+
+Because your data is stored locally, we cannot guarantee that it will
+never be lost. Data may, for example, become unavailable or be lost if
+you uninstall the app, lose or replace your device, clear the app's
+data, or otherwise remove locally stored data.
+
+We recommend not relying on Renewly as your sole record of contractual
+subscription obligations or other important information.
+
+This section does not limit any mandatory statutory rights you may
+have in relation to a defective digital product.
 
 ## 7. Limitation of Liability
 
