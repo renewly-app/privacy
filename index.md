@@ -43,10 +43,10 @@ Section 5).
 ### 3.1 Subscription Data You Enter
 
 Name, price, currency, billing cycle, and renewal date for each
-subscription you add are stored locally on your device only. This
-data is used to display your subscriptions and to schedule local
-reminder notifications before a renewal date. It is never uploaded
-to a server operated by the developer.
+subscription you add are stored in the app's local database on your
+device. This data is used to display your subscriptions and to
+schedule local reminder notifications before a renewal date. It is
+never uploaded to a server operated by the developer.
 
 ### 3.2 Google Play Billing
 
@@ -73,22 +73,25 @@ exchange rates from the free, keyless Frankfurter API
 rates) over the internet. The purpose of this request is solely to
 convert amounts between currencies for display; no subscription data
 or other personal data is included in or derived from this request,
-only the currency codes needed to look up a rate. As with any network
-request, your device's IP address is technically visible to the
-Frankfurter service as the operator of that API, independent of the
-developer. Fetched rates are cached locally on your device for 24
+only the currency codes needed to look up a rate. The request is sent
+directly from your device to the Frankfurter API; the developer does
+not operate or route this request through its own server. As with any
+network request, your device's IP address is technically visible to
+the Frankfurter service as the operator of that API, independent of
+the developer. Fetched rates are cached locally on your device for 24
 hours to minimize how often this request is made.
 
-## 4. Permissions
+## 4. Permissions and Network Access
 
-The app requests the following permission:
+The app declares and uses the following Android permissions:
 
 | Permission | Purpose |
 |---|---|
-| **Notifications** (`android.permission.POST_NOTIFICATIONS`) | Used to remind you before a subscription renews. Reminders are scheduled entirely on your device. |
-| **Internet** (`android.permission.INTERNET`) | Used for Google Play Billing and fetching exchange rates for currency conversion (see 3.2–3.3). |
+| **Notifications** (`android.permission.POST_NOTIFICATIONS`) | Used to remind you before a subscription renews. Reminders are scheduled entirely on your device. On Android 13+, this requires your explicit consent, which the OS will ask for. |
+| **Internet** (`android.permission.INTERNET`) | Used for Google Play Billing and fetching exchange rates for currency conversion (see 3.2–3.3). This is a standard permission automatically granted at install time, not something you are separately prompted to approve. |
 
-No other permissions are requested.
+The app does not request access to your contacts, location, camera,
+microphone, photos, or other sensitive device data.
 
 ## 5. Third-Party Services
 
@@ -100,18 +103,23 @@ Analytics, Firebase Analytics, or similar).
 
 The app also supports Android's built-in Auto Backup, which — if
 enabled on your device — automatically backs up the app's local
-database to your own Google Account as part of the standard Android
-OS backup service. This happens entirely between your device and
-your Google Account; the developer has no access to this backup.
-See Google's documentation on
+database as part of the standard Android OS backup service. The
+backup is handled by Android and associated with your Google Account;
+the developer does not operate this backup service and has no access
+to its contents. See Google's documentation on
 [Android Auto Backup](https://developer.android.com/identity/data/autobackup)
 for details, and Android's device backup settings to control it.
 
 ## 6. Storage and Disclosure
 
-Subscription data you enter is stored only in a local database on
-your device. The app does not operate its own server and does not
-disclose your subscription data to third parties.
+Subscription data you enter is stored in the app's local database on
+your device and remains there until you edit or delete it, or delete
+the app's local data. The developer does not operate its own server
+and does not receive or disclose this data to third parties.
+
+If Android Auto Backup is enabled for Renewly, this local database may
+also be included in a backup associated with your Google Account, as
+described in Section 5.
 
 ## 7. Rights of Data Subjects
 
@@ -119,19 +127,25 @@ Under the GDPR, you generally have the right to access (Art. 15),
 rectification (Art. 16), erasure (Art. 17), restriction of
 processing (Art. 18), data portability (Art. 20), and objection
 (Art. 21). Since Renewly does not store or transmit your subscription
-data on the developer's side, these rights primarily apply to the
-data you manage directly on your device — you can edit or delete it
-in the app at any time, or uninstall the app. You also have the
-right to lodge a complaint with a data protection supervisory
-authority.
+data on the developer's side, you can exercise these rights directly
+by accessing, editing, or deleting your subscription data in the app.
+
+Deleting the app or its local data removes this data from your
+device. If Android Auto Backup is enabled, a backup may remain
+associated with your Google Account until it is managed or deleted
+through Android's backup settings or your Google Account — the
+developer cannot delete this on your behalf, as it has no access to
+it (see Section 5).
+
+You also have the right to lodge a complaint with a data protection
+supervisory authority.
 
 ## 8. Legal Basis
 
-Local storage and processing of the data you enter, to provide the
-app's core function (subscription tracking and renewal reminders),
-is based on Art. 6(1)(b) GDPR (performance of a contract, or
-pre-contractual measures taken at the request of the user through
-their use of the app).
+Where the GDPR applies, the processing of the data you enter into
+Renewly is based on Art. 6(1)(b) GDPR, insofar as such processing is
+necessary to provide the subscription tracking and renewal reminder
+functionality you requested.
 
 ## 9. Changes to This Privacy Policy
 
