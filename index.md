@@ -4,7 +4,7 @@ title: Privacy Policy – Renewly
 
 # Privacy Policy – Renewly
 
-Last updated: August 25, 2026
+Last updated: August 26, 2026
 
 This privacy policy applies to the Android app **Renewly**
 (package ID: `com.renewly.subscriptions`).
@@ -12,17 +12,28 @@ This privacy policy applies to the Android app **Renewly**
 ## 1. Data Controller
 
 Robert Peringer
-Ittlinger Hauptstraße 17, Straubing, Germany
+Ittlinger Hauptstraße 17, 94315 Straubing, Germany
 Email: FsNaviVfr@gmail.com
 
 ## 2. Summary
 
-Renewly is a subscription renewal tracker. It stores everything you
-enter (subscription name, price, billing cycle, next renewal date)
-**exclusively on your device**, in a local database. There is no
-user account, no registration, and no server/backend of our own. The
-app itself never transmits your subscription data to the developer
-or any third party.
+Renewly is a subscription renewal tracker. The subscription data you
+enter (subscription name, price, billing cycle, next renewal date) is
+stored in a local database on your device. There is no user account,
+no registration, and no server/backend of our own. The app itself
+never transmits your subscription data to the developer or any third
+party.
+
+Some functions involve third-party services: Google Play Billing is
+used to process premium purchases, and the Frankfurter API may be
+contacted directly from your device to fetch exchange rates when you
+use the currency conversion feature. No advertising, analytics, or
+tracking services are used.
+
+If Android's Auto Backup feature is enabled on your device, the app's
+local database may be included in a backup associated with your
+Google Account. The developer has no access to such backups (see
+Section 5).
 
 ## 3. What Data Is Processed?
 
@@ -39,9 +50,16 @@ to a server operated by the developer.
 Paid premium features are purchased through Google Play Billing.
 Payment details (card numbers, billing address, etc.) are processed
 entirely by Google, which acts as an independent data controller for
-that processing — the developer only receives a purchase
-confirmation (order ID / purchase token), never payment details. See
-Google's Privacy Policy: https://policies.google.com/privacy
+that processing — Renewly never sees or receives your payment
+details.
+
+To determine whether premium features should be unlocked, the app
+queries your purchase status directly from Google Play each time it
+starts. This purchase information is not transmitted to the developer
+— there is no developer-operated server to receive it — and is not
+stored on your device either; it is only held in memory for the
+current app session. See Google's Privacy Policy:
+https://policies.google.com/privacy
 
 ### 3.3 Currency Conversion (Exchange Rates)
 
