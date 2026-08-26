@@ -9,8 +9,11 @@ Last updated: August 26, 2026
 These Terms of Use apply to the Android app **Renewly** (package ID:
 `com.renewly.subscriptions`), provided by:
 
-Robert Peringer
-Ittlinger Hauptstraße 17, 94315 Straubing, Germany
+Robert Peringer  
+Ittlinger Hauptstraße 17  
+94315 Straubing  
+Germany  
+
 Email: FsNaviVfr@gmail.com
 
 ## 1. Scope
