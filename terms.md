@@ -4,13 +4,13 @@ title: Terms of Use – Renewly
 
 # Terms of Use – Renewly
 
-Last updated: August 25, 2026
+Last updated: August 26, 2026
 
 These Terms of Use apply to the Android app **Renewly** (package ID:
 `com.renewly.subscriptions`), provided by:
 
 Robert Peringer
-Ittlinger Hauptstraße 17, Straubing, Germany
+Ittlinger Hauptstraße 17, 94315 Straubing, Germany
 Email: FsNaviVfr@gmail.com
 
 ## 1. Scope
@@ -23,7 +23,7 @@ of Use. If you do not agree, please do not use the app.
 Renewly is a subscription-renewal tracker with a free and a Premium
 tier:
 
-- **Free**: track up to 10 subscriptions.
+- **Free**: track up to 8 subscriptions.
 - **Premium** (paid subscription via Google Play Billing): unlimited
   subscriptions, and it supports ongoing development of the app.
 
@@ -75,8 +75,11 @@ unless you are entitled to a withdrawal under Section 4.
 
 ## 6. Local Data & No Warranty of Data Preservation
 
-Renewly stores your subscription data exclusively on your device (see
-our [Privacy Policy](index.md)). We provide the app "as is" and do not
+Renewly stores the subscription data you enter locally on your device
+and does not upload it to servers operated by the developer (see our
+[Privacy Policy](index.md) for details on Android's Auto Backup
+feature, which may back up this data to your Google Account). We
+provide the app "as is" and do not
 warrant that your data will never be lost — for example, if you
 uninstall the app, lose your device, or clear app data at the OS
 level. We recommend not relying on Renewly as your sole record of any
