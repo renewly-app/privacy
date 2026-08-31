@@ -4,6 +4,8 @@ title: Terms of Use – Renewly
 
 # Terms of Use – Renewly
 
+[Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md)
+
 Last updated: August 27, 2026
 
 These Terms of Use apply to the Android app **Renewly** (package ID:
@@ -73,7 +75,27 @@ which takes effect at the end of the current billing period.
 Cancelling does not retroactively refund the current billing period
 unless you are entitled to a withdrawal under Section 4.
 
-## 6. Local Data and Data Preservation
+## 6. Reminders and Notifications
+
+Renewly schedules reminder notifications locally on your device using
+Android's standard scheduling mechanism, so that you can be reminded
+before a renewal date. Delivery of these notifications is performed by the
+Android operating system on a best-effort basis. They may therefore be
+delivered later than the time you set, or not be delivered at all, for
+reasons outside our control -- for example if the device is switched
+off, in a battery-saving or Doze state, if notifications or background
+activity are restricted for the app in the system settings, or if the
+manufacturer of your device applies its own battery-optimisation rules.
+
+Renewly therefore does not promise that a reminder will be delivered at
+any particular time, or at all. Please do not rely on it as your only
+safeguard for a deadline that matters to you.
+
+This section describes how the app works; it does not limit any
+mandatory statutory rights you may have in relation to a defective
+digital product.
+
+## 7. Local Data and Data Preservation
 
 Renewly stores the subscription data you enter locally on your device
 and does not upload it to servers operated by the developer. Please
@@ -91,7 +113,7 @@ subscription obligations or other important information.
 This section does not limit any mandatory statutory rights you may
 have in relation to a defective digital product.
 
-## 7. Limitation of Liability
+## 8. Limitation of Liability
 
 To the extent permitted by law, we are liable only for damages caused
 by intent or gross negligence. Liability for slight negligence is
@@ -100,7 +122,7 @@ health, or from breach of a material contractual obligation
 ("Kardinalpflicht"), in which case liability is limited to
 foreseeable, typically occurring damage.
 
-## 8. Changes to These Terms
+## 9. Changes to These Terms
 
 We may update these Terms of Use where reasonably necessary, for
 example due to changes in the app's functionality, technical
@@ -116,14 +138,14 @@ material changes in an appropriate manner.
 The current version of these Terms is always available via the link
 provided in the app and in the Play Store listing.
 
-## 9. Governing Law
+## 10. Governing Law
 
 These Terms are governed by German law, excluding the UN Convention
 on Contracts for the International Sale of Goods (CISG). Mandatory
 consumer-protection provisions of your country of residence remain
 unaffected.
 
-## 10. Contact
+## 11. Contact
 
 For questions about these Terms, please contact:
 FsNaviVfr@gmail.com

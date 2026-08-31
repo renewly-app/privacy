@@ -4,6 +4,8 @@ title: Privacy Policy – Renewly
 
 # Privacy Policy – Renewly
 
+[Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md)
+
 Last updated: August 31, 2026
 
 This privacy policy applies to the Android app **Renewly**
