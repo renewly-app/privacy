@@ -1,0 +1,161 @@
+---
+title: Nutzungsbedingungen – Renewly
+---
+
+# Nutzungsbedingungen – Renewly
+
+[Datenschutzerklärung](datenschutz.md) · [Impressum](impressum.md) · [English](terms.md)
+
+Stand: 31. August 2026
+
+Diese Nutzungsbedingungen gelten für die Android-App **Renewly**
+(Paket-ID: `com.renewly.subscriptions`), angeboten von:
+
+Robert Peringer
+Ittlinger Hauptstraße 17
+94315 Straubing
+Deutschland
+
+E-Mail: FsNaviVfr@gmail.com
+
+## 1. Geltungsbereich
+
+Mit dem Herunterladen, Installieren oder Nutzen von Renewly erkennen Sie
+diese Nutzungsbedingungen an. Wenn Sie damit nicht einverstanden sind,
+nutzen Sie die App bitte nicht.
+
+## 2. Beschreibung des Dienstes
+
+Renewly ist ein Tracker für Abo-Verlängerungen und wird in einer kostenlosen und einer
+Premium-Variante angeboten:
+
+- **Kostenlos**: bis zu 8 Abonnements erfassen.
+- **Premium** (kostenpflichtiges Abonnement über Google Play Billing):
+  unbegrenzt viele Abos; zugleich unterstützen Sie damit die
+  Weiterentwicklung der App.
+
+Der jeweils aktuelle Preis für Premium wird in der App und im
+Google-Play-Store-Eintrag vor dem Kauf angezeigt.
+
+## 3. Käufe über Google Play Billing
+
+Alle In-App-Käufe werden über Google Play Billing abgewickelt.
+Zahlungsabwicklung und Verwaltung des Abonnements richten sich nach den
+jeweils geltenden
+[Google-Play-Bedingungen und der Rückerstattungsrichtlinie](https://support.google.com/googleplay/answer/2479637).
+Ihre gesetzlichen Rechte uns gegenüber, einschließlich eines etwaigen
+Widerrufsrechts (siehe Abschnitt 4), bleiben davon unberührt.
+
+## 4. Widerrufsrecht
+
+Sind Sie Verbraucher und gewährt Ihnen das anwendbare Recht ein
+Widerrufsrecht, können Sie einen entsprechenden Kauf grundsätzlich
+innerhalb von 14 Tagen widerrufen.
+
+Ob ein Widerrufsrecht besteht, wie weit es reicht und ob es vorzeitig
+erlöschen kann, hängt von der Art des erworbenen digitalen Produkts und
+vom anwendbaren Recht ab.
+
+Liegen die gesetzlichen Voraussetzungen für ein vorzeitiges Erlöschen
+des Widerrufsrechts vor, einschließlich einer hierfür erforderlichen
+ausdrücklichen Zustimmung und Kenntnisnahme Ihrerseits, kann das
+Widerrufsrecht vor Ablauf der 14 Tage erlöschen.
+
+Käufe werden über Google Play Billing abgewickelt. Für
+Erstattungsanträge und die Zahlungsabwicklung gelten die jeweiligen
+Bedingungen und Erstattungsverfahren von Google (siehe Abschnitt 3).
+Zwingende gesetzliche Verbraucherrechte, die Ihnen uns gegenüber
+zustehen, bleiben davon unberührt.
+
+Zur Ausübung eines gesetzlichen Widerrufsrechts uns gegenüber wenden Sie
+sich bitte an die oben genannte E-Mail-Adresse.
+
+## 5. Verlängerung und Kündigung des Abonnements
+
+Premium wird als wiederkehrendes Abonnement angeboten. Es verlängert
+sich automatisch, bis es gekündigt wird. Sie können jederzeit über
+Google Play kündigen (Play-Store-App → Zahlungen und Abos → Abos); die
+Kündigung wird zum Ende des laufenden Abrechnungszeitraums wirksam. Eine
+Kündigung führt nicht rückwirkend zur Erstattung des laufenden
+Abrechnungszeitraums, es sei denn, Ihnen steht ein Widerruf nach
+Abschnitt 4 zu.
+
+## 6. Erinnerungen und Benachrichtigungen
+
+Renewly plant Erinnerungen lokal auf Ihrem Gerät über den
+Standard-Planungsmechanismus von Android, damit Sie rechtzeitig darauf
+hingewiesen werden, bevor ein Abonnement sich verlängert. Die Zustellung dieser
+Benachrichtigungen übernimmt das Android-Betriebssystem nach dem Prinzip
+bestmöglichen Bemühens. Sie können daher später als von Ihnen eingestellt
+oder gar nicht zugestellt werden, und zwar aus Gründen, auf die wir
+keinen Einfluss haben — etwa wenn das Gerät ausgeschaltet ist, sich im
+Energiespar- oder Doze-Modus befindet, wenn Benachrichtigungen oder
+Hintergrundaktivität für die App in den Systemeinstellungen eingeschränkt
+sind, oder wenn der Hersteller Ihres Geräts eigene Regeln zur
+Akkuoptimierung anwendet.
+
+Renewly sagt daher nicht zu, dass eine Erinnerung zu einem bestimmten
+Zeitpunkt oder überhaupt zugestellt wird. Bitte verlassen Sie sich nicht
+allein auf die App, wenn Ihnen an der Einhaltung einer Frist gelegen ist.
+
+Dieser Abschnitt beschreibt die Funktionsweise der App; er beschränkt
+keine zwingenden gesetzlichen Rechte, die Ihnen im Zusammenhang mit
+einem mangelhaften digitalen Produkt zustehen.
+
+## 7. Lokale Daten und Datensicherung
+
+Renewly speichert Ihre Abodaten lokal auf Ihrem Gerät und lädt sie
+nicht auf Server des Anbieters hoch. Einzelheiten zur automatischen
+Sicherung von Android, durch die diese Daten in Ihrem Google-Konto
+gesichert werden können, finden Sie in unserer
+[Datenschutzerklärung](datenschutz.md).
+
+Da Ihre Daten lokal gespeichert werden, können wir nicht gewährleisten,
+dass sie niemals verloren gehen. Daten können beispielsweise
+unzugänglich werden oder verloren gehen, wenn Sie die App
+deinstallieren, Ihr Gerät verlieren oder wechseln, die Daten der App
+löschen oder lokal gespeicherte Daten auf andere Weise entfernen.
+
+Verlassen Sie sich bitte nicht allein auf Renewly, wenn es um vertragliche Verpflichtungen aus Abonnements oder andere wichtige Angaben geht.
+
+Dieser Abschnitt beschränkt keine zwingenden gesetzlichen Rechte, die
+Ihnen im Zusammenhang mit einem mangelhaften digitalen Produkt zustehen.
+
+## 8. Haftungsbeschränkung
+
+Soweit gesetzlich zulässig, haften wir nur für Schäden, die auf Vorsatz
+oder grober Fahrlässigkeit beruhen. Die Haftung für leichte
+Fahrlässigkeit ist ausgeschlossen; hiervon ausgenommen sind Schäden aus
+der Verletzung des Lebens, des Körpers oder der Gesundheit sowie Schäden
+aus der Verletzung einer wesentlichen Vertragspflicht
+(„Kardinalpflicht“), wobei die Haftung in diesem Fall auf den
+vorhersehbaren, typischerweise eintretenden Schaden begrenzt ist.
+
+## 9. Änderungen dieser Nutzungsbedingungen
+
+Wir können diese Nutzungsbedingungen anpassen, soweit dies
+vernünftigerweise erforderlich ist, etwa wegen Änderungen am
+Funktionsumfang der App, technischer Entwicklungen oder rechtlicher
+Anforderungen.
+
+Änderungen gelten für die künftige Nutzung der App und für künftige
+Käufe. Verlangt das anwendbare Recht für eine Änderung, die ein
+bestehendes Vertragsverhältnis betrifft (etwa ein laufendes
+Premium-Abonnement), Ihre Zustimmung, nehmen wir die Änderung nur mit
+Ihrer Zustimmung oder soweit sonst gesetzlich zulässig vor. Soweit
+erforderlich, informieren wir Sie in geeigneter Weise über wesentliche
+Änderungen.
+
+Die jeweils aktuelle Fassung dieser Nutzungsbedingungen ist stets über
+den Link in der App und im Play-Store-Eintrag abrufbar.
+
+## 10. Anwendbares Recht
+
+Für diese Nutzungsbedingungen gilt deutsches Recht unter Ausschluss des
+UN-Kaufrechts (CISG). Zwingende Verbraucherschutzvorschriften Ihres
+Aufenthaltsstaats bleiben unberührt.
+
+## 11. Kontakt
+
+Bei Fragen zu diesen Nutzungsbedingungen wenden Sie sich bitte an:
+FsNaviVfr@gmail.com
