@@ -4,7 +4,7 @@ title: Privacy Policy – Renewly
 
 # Privacy Policy – Renewly
 
-Last updated: August 26, 2026
+Last updated: August 31, 2026
 
 This privacy policy applies to the Android app **Renewly**
 (package ID: `com.renewly.subscriptions`).
@@ -75,11 +75,16 @@ convert amounts between currencies for display; no subscription data
 or other personal data is included in or derived from this request,
 only the currency codes needed to look up a rate. The request is sent
 directly from your device to the Frankfurter API; the developer does
-not operate or route this request through its own server. As with any
-network request, your device's IP address is technically visible to
-the Frankfurter service as the operator of that API, independent of
-the developer. Fetched rates are cached locally on your device for 24
-hours to minimize how often this request is made.
+not operate or route this request through its own server, does not
+receive this request, and the app does not store your IP address. As
+with any network request, your device's IP address is technically
+visible to the Frankfurter service and any technical infrastructure
+providers (for example hosting or content-delivery services) it
+relies on to operate that API. How long that connection data is
+retained is determined by those services' own policies, not by the
+developer, who has no control over it. Fetched rates are cached
+locally on your device for 24 hours to minimize how often this
+request is made.
 
 ## 4. Permissions and Network Access
 
@@ -124,11 +129,20 @@ described in Section 5.
 ## 7. Rights of Data Subjects
 
 Under the GDPR, you generally have the right to access (Art. 15),
-rectification (Art. 16), erasure (Art. 17), restriction of
-processing (Art. 18), data portability (Art. 20), and objection
-(Art. 21). Since Renewly does not store or transmit your subscription
-data on the developer's side, you can exercise these rights directly
-by accessing, editing, or deleting your subscription data in the app.
+rectification (Art. 16), erasure (Art. 17), and restriction of
+processing (Art. 18). Where the respective legal requirements are
+met, you may also have the right to data portability (Art. 20 GDPR)
+and the right to object to processing based on legitimate interests
+(Art. 21 GDPR).
+
+Since Renewly does not store or transmit your subscription data on
+the developer's side, most of these rights are already effectively in
+your own hands: you can view, edit, or delete your subscription data
+directly in the app at any time. This is not the same as formally
+exercising a right under the GDPR, however. To formally invoke any of
+the above rights — for example regarding the limited technical data
+described in Sections 3.2–3.3 — please contact the developer using
+the details in Section 10.
 
 Deleting the app or its local data removes this data from your
 device. If Android Auto Backup is enabled, a backup may remain
@@ -142,10 +156,22 @@ supervisory authority.
 
 ## 8. Legal Basis
 
-Where the GDPR applies, the processing of the data you enter into
-Renewly is based on Art. 6(1)(b) GDPR, insofar as such processing is
-necessary to provide the subscription tracking and renewal reminder
-functionality you requested.
+Where the GDPR applies, different processing activities described in
+this policy rely on different legal bases:
+
+- Processing of the subscription data you enter (Section 3.1) is
+  based on Art. 6(1)(b) GDPR, insofar as it is necessary to provide
+  the subscription tracking and renewal reminder functionality you
+  requested, or otherwise on Art. 6(1)(f) GDPR (legitimate interest
+  in operating the app's core functionality).
+- Currency-conversion requests to the Frankfurter API (Section 3.3)
+  are based on Art. 6(1)(f) GDPR — the developer's legitimate
+  interest in providing exchange-rate conversion without operating a
+  currency-rate server of its own.
+- Processing related to Google Play Billing (Section 3.2) is carried
+  out by Google as an independent controller under its own legal
+  basis; see [Google's Privacy Policy](https://policies.google.com/privacy)
+  for details.
 
 ## 9. Changes to This Privacy Policy
 
