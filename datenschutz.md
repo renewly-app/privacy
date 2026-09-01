@@ -25,10 +25,6 @@ E-Mail: FsNaviVfr@gmail.com
 Renewly ist ein Tracker für Abo-Verlängerungen. Die von Ihnen eingegebenen Daten
 (Name, Preis, Währung, Abrechnungszyklus, Verlängerungsdatum und, sofern
 eingetragen, die Kündigungsfrist und das Ende einer Testphase) werden in
-Wählen Sie für einen Eintrag eines der mitgelieferten Symbole, wird auch diese
-Auswahl dort gespeichert. Die Symbole sind Teil der App; es wird kein Bild
-hochgeladen und keines aus dem Netz geladen.
-
 einer lokalen Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
 Registrierung und keinen eigenen Server. Die App überträgt Ihre Abodaten
 weder an den Anbieter noch an Dritte.
