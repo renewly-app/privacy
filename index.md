@@ -25,6 +25,10 @@ Email: FsNaviVfr@gmail.com
 Renewly is a subscription renewal tracker. The subscription data you
 enter (subscription name, price, billing cycle, next renewal date and,
 if you enter them, the notice period and the end of a free trial) is
+If you pick one of the symbols that ship with the app for an entry, that choice
+is stored there as well. The symbols are part of the app; no image is uploaded
+and none is fetched from the internet.
+
 stored in a local database on your device. There is no user account,
 no registration, and no server/backend of our own. The app itself
 never transmits your subscription data to the developer or any third
@@ -52,6 +56,10 @@ display your subscriptions and to schedule local reminder notifications
 before a renewal date, before a notice period you entered runs out, or
 before a free trial ends. It is never uploaded to a server operated by the
 developer.
+
+If you pick one of the symbols that ship with the app for an entry, that choice
+is stored there as well. The symbols are part of the app; no image is uploaded
+and none is fetched from the internet.
 
 ### 3.2 Google Play Billing
 
