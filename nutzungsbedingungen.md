@@ -159,12 +159,13 @@ gilt insbesondere für Ihre Rechte auf Nacherfüllung, Vertragsbeendigung,
 Preisminderung und Schadensersatz nach den dort geregelten
 Voraussetzungen.
 
-## 9. Änderungen
+## 9. Änderungen und Aktualisierungen
 
 Die Änderung dieser Nutzungsbedingungen und die Änderung der App selbst
 sind zwei verschiedene Dinge und richten sich nach unterschiedlichen
 Regeln. Abschnitt 9.1 betrifft das Vertragswerk, Abschnitt 9.2 das
-digitale Produkt.
+digitale Produkt. Abschnitt 9.3 betrifft die Aktualisierungen, die wir
+schulden, damit die App vertragsgemäß bleibt.
 
 ### 9.1 Änderungen dieser Nutzungsbedingungen
 
@@ -220,6 +221,28 @@ zusätzliche Kosten unverändert und vertragsgemäß weiterzunutzen.
 Der kostenlose Teil der App wird nicht gegen Entgelt bereitgestellt;
 dieser Abschnitt gilt für ihn nur, soweit die gesetzlichen
 Voraussetzungen dafür vorliegen.
+
+
+### 9.3 Aktualisierungen (§ 327f BGB)
+
+Während des maßgeblichen Zeitraums stellen wir Ihnen die Aktualisierungen
+bereit, die erforderlich sind, damit die App vertragsgemäß bleibt;
+Sicherheitsaktualisierungen gehören dazu. Maßgeblicher Zeitraum ist bei
+Premium die Laufzeit Ihres Abonnements.
+
+Die Bereitstellung erfolgt über Google Play, das Sie auch über verfügbare
+Aktualisierungen informiert. In der App finden Sie im Bereich „Über“ unter
+„Aktualisierungen“ einen entsprechenden Hinweis.
+
+Diese Pflicht betrifft die Erhaltung der Vertragsmäßigkeit. Sie ist keine
+Zusage, dass die App neue Funktionen erhält.
+
+Installieren Sie eine bereitgestellte Aktualisierung nicht innerhalb einer
+angemessenen Frist, haften wir nicht für einen Mangel, der allein auf dem
+Fehlen dieser Aktualisierung beruht. Das gilt nur, wenn wir Sie über die
+Verfügbarkeit der Aktualisierung und die Folgen einer unterlassenen
+Installation informiert haben und die unterlassene Installation nicht auf
+eine mangelhafte Installationsanleitung zurückzuführen ist.
 
 ## 10. Anwendbares Recht
 

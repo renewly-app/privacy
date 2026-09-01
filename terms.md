@@ -150,11 +150,13 @@ Civil Code (BGB), in particular your rights to have the product brought
 into conformity, to terminate the contract, to a price reduction, and
 to damages under the conditions set out there.
 
-## 9. Changes
+## 9. Changes and Updates
 
 Changing these Terms of Use and changing the app itself are two
 different things governed by different rules. Section 9.1 concerns the
-contractual terms, Section 9.2 the digital product.
+contractual terms, Section 9.2 the digital product. Section 9.3 concerns
+the updates we owe so that the app remains in conformity with the
+contract.
 
 ### 9.1 Changes to These Terms
 
@@ -206,6 +208,27 @@ contract at no additional cost.
 The free tier of the app is not supplied against payment; this section
 applies to it only to the extent that the statutory conditions for
 doing so are met.
+
+
+### 9.3 Updates (section 327f BGB)
+
+During the relevant period we provide you with the updates that are
+necessary for the app to remain in conformity with the contract, security
+updates included. For Premium, the relevant period is the term of your
+subscription.
+
+Updates are provided through Google Play, which also informs you when one
+is available. Inside the app, the "About" area carries a corresponding
+notice under "Updates".
+
+This obligation concerns maintaining conformity with the contract. It is
+not a promise that the app will receive new features.
+
+If you do not install a provided update within a reasonable period, we are
+not liable for a defect resulting solely from that update being missing.
+This applies only where we have informed you about the availability of the
+update and about the consequences of not installing it, and where the
+failure to install is not due to deficient installation instructions.
 
 ## 10. Governing Law
 
