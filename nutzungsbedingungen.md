@@ -108,6 +108,11 @@ Stichtag ist deshalb keine rechtsverbindliche Auskunft über Ihre
 tatsächliche Kündigungsfrist. Maßgeblich sind allein Ihr Vertrag und die
 Angaben Ihres Anbieters.
 
+Ist ein Eintrag als Testphase gekennzeichnet und haben Sie ein Enddatum
+angegeben, plant Renewly zusätzlich eine Erinnerung vor diesem Datum. Auch
+dieses Datum stammt allein aus Ihrer Eingabe; Renewly kennt die Laufzeit
+Ihrer Testphase nicht und prüft sie nicht.
+
 Renewly kündigt keine Abonnements. Die App erinnert lediglich; die
 Kündigung müssen Sie selbst gegenüber dem jeweiligen Anbieter erklären.
 

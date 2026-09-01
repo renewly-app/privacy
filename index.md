@@ -24,7 +24,7 @@ Email: FsNaviVfr@gmail.com
 
 Renewly is a subscription renewal tracker. The subscription data you
 enter (subscription name, price, billing cycle, next renewal date and,
-if you enter one, the notice period) is
+if you enter them, the notice period and the end of a free trial) is
 stored in a local database on your device. There is no user account,
 no registration, and no server/backend of our own. The app itself
 never transmits your subscription data to the developer or any third
@@ -46,11 +46,12 @@ Section 5).
 ### 3.1 Subscription Data You Enter
 
 Name, price, currency, billing cycle, renewal date and — if you enter one —
-the notice period for each subscription you add are stored in the app's
-local database on your device. This data is used to display your
-subscriptions and to schedule local reminder notifications before a
-renewal date, or before a notice period you entered runs out. It is
-never uploaded to a server operated by the developer.
+the notice period and the end of a free trial for each subscription you add
+are stored in the app's local database on your device. This data is used to
+display your subscriptions and to schedule local reminder notifications
+before a renewal date, before a notice period you entered runs out, or
+before a free trial ends. It is never uploaded to a server operated by the
+developer.
 
 ### 3.2 Google Play Billing
 

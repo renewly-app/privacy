@@ -24,8 +24,8 @@ E-Mail: FsNaviVfr@gmail.com
 
 Renewly ist ein Tracker für Abo-Verlängerungen. Die von Ihnen eingegebenen Daten
 (Name, Preis, Währung, Abrechnungszyklus, Verlängerungsdatum und, sofern
-eingetragen, die Kündigungsfrist) werden in einer lokalen
-Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
+eingetragen, die Kündigungsfrist und das Ende einer Testphase) werden in
+einer lokalen Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
 Registrierung und keinen eigenen Server. Die App überträgt Ihre Abodaten
 weder an den Anbieter noch an Dritte.
 
@@ -45,12 +45,12 @@ hat auf solche Sicherungen keinen Zugriff (siehe Abschnitt 5).
 ### 3.1 Von Ihnen eingegebene Daten
 
 Name, Preis, Währung, Abrechnungszyklus, Verlängerungsdatum und — sofern Sie
-sie eintragen — die Kündigungsfrist für jeden Eintrag, den Sie anlegen, werden in der
-lokalen Datenbank der App auf Ihrem Gerät gespeichert. Sie dienen dazu,
-Ihre Einträge anzuzeigen und lokale Erinnerungen zu planen, bevor
-ein Abonnement sich verlängert oder eine von Ihnen eingetragene
-Kündigungsfrist abläuft. Diese Daten werden nicht auf einen
-Server des Anbieters hochgeladen.
+sie eintragen — die Kündigungsfrist und das Ende einer Testphase werden für
+jeden Eintrag, den Sie anlegen, in der lokalen Datenbank der App auf Ihrem
+Gerät gespeichert. Sie dienen dazu, Ihre Einträge anzuzeigen und lokale
+Erinnerungen zu planen, bevor ein Abonnement sich verlängert, eine von Ihnen
+eingetragene Kündigungsfrist abläuft oder eine Testphase endet. Diese Daten
+werden nicht auf einen Server des Anbieters hochgeladen.
 
 ### 3.2 Google Play Billing
 

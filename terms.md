@@ -100,6 +100,11 @@ determine it itself. A deadline shown or announced by the app is therefore
 not binding information about your actual notice period. Only your contract
 and the information provided by your provider are decisive.
 
+If an entry is marked as a free trial and you give an end date for it,
+Renewly schedules an additional reminder ahead of that date. That date, too,
+comes solely from what you enter: Renewly does not know how long your trial
+runs and does not verify it.
+
 Renewly does not cancel subscriptions. The app only reminds you; you must
 give notice to the respective provider yourself.
 
