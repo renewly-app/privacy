@@ -43,10 +43,12 @@ hat auf solche Sicherungen keinen Zugriff (siehe Abschnitt 5).
 
 ### 3.1 Von Ihnen eingegebene Daten
 
-Name, Preis, Währung, Abrechnungszyklus und Verlängerungsdatum für jeden Eintrag, den Sie anlegen, werden in der
+Name, Preis, Währung, Abrechnungszyklus, Verlängerungsdatum und — sofern Sie
+sie eintragen — die Kündigungsfrist für jeden Eintrag, den Sie anlegen, werden in der
 lokalen Datenbank der App auf Ihrem Gerät gespeichert. Sie dienen dazu,
 Ihre Einträge anzuzeigen und lokale Erinnerungen zu planen, bevor
-ein Abonnement sich verlängert. Diese Daten werden nicht auf einen
+ein Abonnement sich verlängert oder eine von Ihnen eingetragene
+Kündigungsfrist abläuft. Diese Daten werden nicht auf einen
 Server des Anbieters hochgeladen.
 
 ### 3.2 Google Play Billing

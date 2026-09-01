@@ -44,10 +44,11 @@ Section 5).
 
 ### 3.1 Subscription Data You Enter
 
-Name, price, currency, billing cycle, and renewal date for each
-subscription you add are stored in the app's local database on your
-device. This data is used to display your subscriptions and to
-schedule local reminder notifications before a renewal date. It is
+Name, price, currency, billing cycle, renewal date and — if you enter one —
+the notice period for each subscription you add are stored in the app's
+local database on your device. This data is used to display your
+subscriptions and to schedule local reminder notifications before a
+renewal date, or before a notice period you entered runs out. It is
 never uploaded to a server operated by the developer.
 
 ### 3.2 Google Play Billing

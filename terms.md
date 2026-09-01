@@ -91,6 +91,18 @@ Renewly therefore does not promise that a reminder will be delivered at
 any particular time, or at all. Please do not rely on it as your only
 safeguard for a deadline that matters to you.
 
+You may additionally record a notice period, in days, for a subscription.
+Renewly derives a deadline from it by subtracting that number of days
+from the next renewal date, and schedules a second reminder ahead of that
+deadline. The notice period comes solely from what you enter: Renewly does
+not know your contracts, does not verify the period you enter, and does not
+determine it itself. A deadline shown or announced by the app is therefore
+not binding information about your actual notice period. Only your contract
+and the information provided by your provider are decisive.
+
+Renewly does not cancel subscriptions. The app only reminds you; you must
+give notice to the respective provider yourself.
+
 This section describes how the app works; it does not limit any
 mandatory statutory rights you may have in relation to a defective
 digital product.

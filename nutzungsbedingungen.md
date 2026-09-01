@@ -98,6 +98,19 @@ Renewly sagt daher nicht zu, dass eine Erinnerung zu einem bestimmten
 Zeitpunkt oder überhaupt zugestellt wird. Bitte verlassen Sie sich nicht
 allein auf die App, wenn Ihnen an der Einhaltung einer Frist gelegen ist.
 
+Zu einem Abonnement können Sie zusätzlich eine Kündigungsfrist in Tagen
+eintragen. Renewly errechnet daraus einen Stichtag, indem es diese Anzahl
+von Tagen vom nächsten Verlängerungsdatum abzieht, und plant eine zweite
+Erinnerung darauf. Die Frist stammt ausschließlich aus Ihrer eigenen
+Eingabe: Renewly kennt Ihre Verträge nicht, prüft die eingetragene Frist
+nicht und ermittelt sie nicht selbst. Ein angezeigter oder mitgeteilter
+Stichtag ist deshalb keine rechtsverbindliche Auskunft über Ihre
+tatsächliche Kündigungsfrist. Maßgeblich sind allein Ihr Vertrag und die
+Angaben Ihres Anbieters.
+
+Renewly kündigt keine Abonnements. Die App erinnert lediglich; die
+Kündigung müssen Sie selbst gegenüber dem jeweiligen Anbieter erklären.
+
 Dieser Abschnitt beschreibt die Funktionsweise der App; er beschränkt
 keine zwingenden gesetzlichen Rechte, die Ihnen im Zusammenhang mit
 einem mangelhaften digitalen Produkt zustehen.
