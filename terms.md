@@ -6,7 +6,7 @@ title: Terms of Use – Renewly
 
 [Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](nutzungsbedingungen.md)
 
-Last updated: August 27, 2026
+Last updated: September 1, 2026
 
 These Terms of Use apply to the Android app **Renewly** (package ID:
 `com.renewly.subscriptions`), provided by:
@@ -127,14 +127,36 @@ have in relation to a defective digital product.
 
 ## 8. Limitation of Liability
 
-To the extent permitted by law, we are liable only for damages caused
-by intent or gross negligence. Liability for slight negligence is
-excluded, except for damages resulting from injury to life, body, or
-health, or from breach of a material contractual obligation
-("Kardinalpflicht"), in which case liability is limited to
-foreseeable, typically occurring damage.
+For intent and gross negligence, we are liable without limitation.
 
-## 9. Changes to These Terms
+Liability for slight negligence is excluded. This exclusion does not
+apply to:
+
+- damages resulting from injury to life, body, or health;
+- damages resulting from the breach of a material contractual
+  obligation ("Kardinalpflicht"), meaning an obligation whose
+  fulfilment makes the proper performance of the contract possible in
+  the first place and on whose observance you may regularly rely; in
+  that case liability is limited to foreseeable, typically occurring
+  damage;
+- cases in which we fraudulently concealed a defect or assumed a
+  guarantee;
+- liability under the German Product Liability Act
+  (Produkthaftungsgesetz).
+
+This section does not limit your statutory rights in relation to a
+defective digital product under sections 327 et seq. of the German
+Civil Code (BGB), in particular your rights to have the product brought
+into conformity, to terminate the contract, to a price reduction, and
+to damages under the conditions set out there.
+
+## 9. Changes
+
+Changing these Terms of Use and changing the app itself are two
+different things governed by different rules. Section 9.1 concerns the
+contractual terms, Section 9.2 the digital product.
+
+### 9.1 Changes to These Terms
 
 We may update these Terms of Use where reasonably necessary, for
 example due to changes in the app's functionality, technical
@@ -149,6 +171,41 @@ material changes in an appropriate manner.
 
 The current version of these Terms is always available via the link
 provided in the app and in the Play Store listing.
+
+### 9.2 Changes to the App (section 327r BGB)
+
+Premium is supplied to you as a digital product over a period of time.
+Changes that are necessary to maintain the app's conformity with the
+contract during that period are made without requiring any separate
+basis.
+
+Any change to the app going beyond that is made only under the
+conditions of section 327r of the German Civil Code (BGB). We hereby
+reserve the right to make such changes; they are made only if there is
+a valid reason, they cause you no additional cost, and we inform you
+about the change in a clear and comprehensible manner. Valid reasons
+are in particular:
+
+- adapting to a changed technical environment, such as new Android
+  versions, changed system interfaces, or Google Play requirements;
+- fixing security problems;
+- a change in the law or a requirement imposed by an authority or a
+  court;
+- a substantial extension of the app's functionality.
+
+If such a change adversely affects your access to the app or its
+usability **by more than a negligible amount**, we will inform you
+about it on a durable medium within a reasonable period before the
+change takes effect. We will tell you when the change takes effect,
+what it consists of, and that you have the right to terminate the
+contract free of charge within 30 days. That right to terminate does
+not apply where the adverse effect is merely negligible, or where we
+enable you to keep using the app unchanged and in conformity with the
+contract at no additional cost.
+
+The free tier of the app is not supplied against payment; this section
+applies to it only to the extent that the statutory conditions for
+doing so are met.
 
 ## 10. Governing Law
 

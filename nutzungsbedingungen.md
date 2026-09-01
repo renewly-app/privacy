@@ -6,7 +6,7 @@ title: Nutzungsbedingungen – Renewly
 
 [Datenschutzerklärung](datenschutz.md) · [Impressum](impressum.md) · [English](terms.md)
 
-Stand: 31. August 2026
+Stand: 1. September 2026
 
 Diese Nutzungsbedingungen gelten für die Android-App **Renewly**
 (Paket-ID: `com.renewly.subscriptions`), angeboten von:
@@ -136,15 +136,37 @@ Ihnen im Zusammenhang mit einem mangelhaften digitalen Produkt zustehen.
 
 ## 8. Haftungsbeschränkung
 
-Soweit gesetzlich zulässig, haften wir nur für Schäden, die auf Vorsatz
-oder grober Fahrlässigkeit beruhen. Die Haftung für leichte
-Fahrlässigkeit ist ausgeschlossen; hiervon ausgenommen sind Schäden aus
-der Verletzung des Lebens, des Körpers oder der Gesundheit sowie Schäden
-aus der Verletzung einer wesentlichen Vertragspflicht
-(„Kardinalpflicht“), wobei die Haftung in diesem Fall auf den
-vorhersehbaren, typischerweise eintretenden Schaden begrenzt ist.
+Bei Vorsatz und grober Fahrlässigkeit haften wir unbeschränkt.
 
-## 9. Änderungen dieser Nutzungsbedingungen
+Die Haftung für leichte Fahrlässigkeit ist ausgeschlossen. Hiervon
+ausgenommen sind:
+
+- Schäden aus der Verletzung des Lebens, des Körpers oder der
+  Gesundheit;
+- Schäden aus der Verletzung einer wesentlichen Vertragspflicht
+  („Kardinalpflicht“), also einer Pflicht, deren Erfüllung die
+  ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und
+  auf deren Einhaltung Sie regelmäßig vertrauen dürfen; in diesem Fall
+  ist die Haftung auf den vorhersehbaren, typischerweise eintretenden
+  Schaden begrenzt;
+- Fälle, in denen wir einen Mangel arglistig verschwiegen oder eine
+  Garantie übernommen haben;
+- die Haftung nach dem Produkthaftungsgesetz.
+
+Ihre gesetzlichen Rechte bei einem mangelhaften digitalen Produkt
+(§§ 327 ff. BGB) werden durch diesen Abschnitt nicht eingeschränkt. Das
+gilt insbesondere für Ihre Rechte auf Nacherfüllung, Vertragsbeendigung,
+Preisminderung und Schadensersatz nach den dort geregelten
+Voraussetzungen.
+
+## 9. Änderungen
+
+Die Änderung dieser Nutzungsbedingungen und die Änderung der App selbst
+sind zwei verschiedene Dinge und richten sich nach unterschiedlichen
+Regeln. Abschnitt 9.1 betrifft das Vertragswerk, Abschnitt 9.2 das
+digitale Produkt.
+
+### 9.1 Änderungen dieser Nutzungsbedingungen
 
 Wir können diese Nutzungsbedingungen anpassen, soweit dies
 vernünftigerweise erforderlich ist, etwa wegen Änderungen am
@@ -161,6 +183,43 @@ erforderlich, informieren wir Sie in geeigneter Weise über wesentliche
 
 Die jeweils aktuelle Fassung dieser Nutzungsbedingungen ist stets über
 den Link in der App und im Play-Store-Eintrag abrufbar.
+
+### 9.2 Änderungen an der App (§ 327r BGB)
+
+Premium wird Ihnen als digitales Produkt über einen Zeitraum
+bereitgestellt. Änderungen, die erforderlich sind, um die
+Vertragsmäßigkeit der App während dieses Zeitraums zu erhalten,
+nehmen wir vor, ohne dass es hierfür einer besonderen Grundlage
+bedarf.
+
+Darüber hinausgehende Änderungen der App nehmen wir nur unter den
+Voraussetzungen des § 327r BGB vor. Dafür behalten wir uns solche
+Änderungen hiermit vor; sie erfolgen nur, wenn ein triftiger Grund
+vorliegt, für Sie keine zusätzlichen Kosten entstehen und wir Sie klar
+und verständlich über die Änderung informieren. Ein triftiger Grund
+sind insbesondere:
+
+- die Anpassung an eine veränderte technische Umgebung, etwa an neue
+  Android-Versionen, geänderte Systemschnittstellen oder Vorgaben von
+  Google Play;
+- die Behebung von Sicherheitsproblemen;
+- eine Änderung der Rechtslage oder eine behördliche oder gerichtliche
+  Vorgabe;
+- eine nennenswerte Erweiterung des Funktionsumfangs.
+
+Beeinträchtigt eine solche Änderung Ihren Zugang zur App oder deren
+Nutzbarkeit **mehr als nur geringfügig**, informieren wir Sie darüber
+innerhalb einer angemessenen Frist vor dem Zeitpunkt der Änderung auf
+einem dauerhaften Datenträger. Wir teilen Ihnen dabei den Zeitpunkt der
+Änderung, die Merkmale der Änderung und Ihr Recht mit, den Vertrag
+innerhalb von 30 Tagen unentgeltlich zu beenden. Dieses
+Beendigungsrecht besteht nicht, wenn die Beeinträchtigung nur
+unerheblich ist oder wenn wir Ihnen ermöglichen, die App ohne
+zusätzliche Kosten unverändert und vertragsgemäß weiterzunutzen.
+
+Der kostenlose Teil der App wird nicht gegen Entgelt bereitgestellt;
+dieser Abschnitt gilt für ihn nur, soweit die gesetzlichen
+Voraussetzungen dafür vorliegen.
 
 ## 10. Anwendbares Recht
 

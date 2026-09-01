@@ -6,7 +6,7 @@ title: Privacy Policy – Renewly
 
 [Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](datenschutz.md)
 
-Last updated: August 31, 2026
+Last updated: September 1, 2026
 
 This privacy policy applies to the Android app **Renewly**
 (package ID: `com.renewly.subscriptions`).
@@ -23,7 +23,8 @@ Email: FsNaviVfr@gmail.com
 ## 2. Summary
 
 Renewly is a subscription renewal tracker. The subscription data you
-enter (subscription name, price, billing cycle, next renewal date) is
+enter (subscription name, price, billing cycle, next renewal date and,
+if you enter one, the notice period) is
 stored in a local database on your device. There is no user account,
 no registration, and no server/backend of our own. The app itself
 never transmits your subscription data to the developer or any third

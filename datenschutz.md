@@ -6,7 +6,7 @@ title: Datenschutzerklärung – Renewly
 
 [Nutzungsbedingungen](nutzungsbedingungen.md) · [Impressum](impressum.md) · [English](index.md)
 
-Stand: 31. August 2026
+Stand: 1. September 2026
 
 Diese Datenschutzerklärung gilt für die Android-App **Renewly**
 (Paket-ID: `com.renewly.subscriptions`).
@@ -23,9 +23,10 @@ E-Mail: FsNaviVfr@gmail.com
 ## 2. Überblick
 
 Renewly ist ein Tracker für Abo-Verlängerungen. Die von Ihnen eingegebenen Daten
-(Name, Preis, Währung, Abrechnungszyklus und Verlängerungsdatum) werden in einer lokalen
+(Name, Preis, Währung, Abrechnungszyklus, Verlängerungsdatum und, sofern
+eingetragen, die Kündigungsfrist) werden in einer lokalen
 Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
-Registrierung und keinen eigenen Server. Die App überträgt Ihrer Abodaten
+Registrierung und keinen eigenen Server. Die App überträgt Ihre Abodaten
 weder an den Anbieter noch an Dritte.
 
 Einzelne Funktionen binden allerdings Dienste Dritter ein: Google Play
@@ -136,7 +137,7 @@ vorliegen, können Ihnen außerdem das Recht auf Datenübertragbarkeit
 (Art. 20 DSGVO) und das Recht auf Widerspruch gegen eine Verarbeitung
 auf Grundlage berechtigter Interessen (Art. 21 DSGVO) zustehen.
 
-Da der Anbieter Ihrer Abodaten weder speichert noch übermittelt,
+Da der Anbieter Ihre Abodaten weder speichert noch übermittelt,
 liegen die meisten dieser Rechte praktisch bereits in Ihrer Hand: Sie
 können Ihre Daten jederzeit unmittelbar in der App einsehen, ändern oder
 löschen. Das ist rechtlich allerdings nicht dasselbe wie die förmliche
