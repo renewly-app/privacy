@@ -78,13 +78,16 @@ erzeugter Eintrag lässt sich wie jeder andere bearbeiten und löschen.
 
 ### 3.2 Von Ihnen hinterlegte Belege
 
-Zu jeder erfassten Zahlung können Sie einen Beleg hinterlegen — in der Regel
+Zu jeder erfassten Zahlung können Sie bis zu zehn Belege hinterlegen — in der Regel
 die Rechnung oder die Zahlungsbestätigung. Dafür stehen drei Wege offen: ein
 vorhandenes Foto aus Ihrer Galerie, eine vorhandene Datei aus Ihrem
 Gerätespeicher (Foto oder PDF) oder eine Aufnahme, die Sie unmittelbar mit
 der Kamera Ihres Geräts machen. Die App legt davon eine eigene Kopie im
-app-eigenen Speicher Ihres Geräts ab; Fotos werden dabei verkleinert und neu
-kodiert. In der lokalen Datenbank wird nur der Dateiname dieser Kopie
+app-eigenen Speicher Ihres Geräts ab; Fotos werden dabei verkleinert und neu kodiert. Die im Original
+eingebetteten Metadaten überstehen das nicht — darunter der Aufnahmeort und
+das Kameramodell, sofern Ihr Gerät sie geschrieben hatte. Übernommen wird
+allein die Angabe zur Ausrichtung, damit ein hochkant aufgenommener Beleg
+nicht seitlich liegend erscheint. In der lokalen Datenbank wird nur der Dateiname dieser Kopie
 vermerkt; eine von Ihnen ausgewählte Originaldatei bleibt unverändert.
 
 Nehmen Sie einen Beleg auf, öffnet die App die Kamera nicht selbst, sondern
@@ -110,7 +113,7 @@ Android-Systems aus, die der App den Zugriff auf genau diese eine Datei
 einräumt; bei einer Aufnahme fragt die Kamera-App Ihres Geräts die
 Berechtigungen ab, die sie selbst benötigt (siehe Abschnitt 4).
 
-Entfernen Sie den Beleg von einem Eintrag oder löschen Sie den Eintrag selbst,
+Entfernen Sie einen Beleg von einem Eintrag oder löschen Sie den Eintrag selbst,
 wird auch die gespeicherte Kopie von Ihrem Gerät gelöscht. Deinstallieren Sie
 die App oder löschen Sie ihre Daten, werden alle gespeicherten Belege
 entfernt.

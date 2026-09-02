@@ -75,12 +75,15 @@ an entry created this way can be edited and deleted like any other.
 
 ### 3.2 Receipts You Attach
 
-For any payment you log you can attach a receipt — typically the invoice or
+For any payment you log you can attach up to ten receipts — typically the invoice or
 the payment confirmation. There are three ways to do so: an existing photo
 from your gallery, an existing file from your device storage (a photo or a
 PDF), or a photo you take with your device camera then and there. The app
-then makes its own copy in its private storage on your device; photos are
-scaled down and re-encoded in the process. Only the file name of that copy is
+then makes its own copy in its private storage on your device; photos are scaled down and re-encoded in the process. The metadata embedded
+in the original does not survive that — including the place the photo was
+taken and the camera model, where your device had written them. Only the
+orientation is carried over, so that a receipt photographed upright is not
+shown lying on its side. Only the file name of that copy is
 written to the local database, and an original you picked is left untouched.
 
 When you take a photo, the app does not open the camera itself; it hands the
