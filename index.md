@@ -60,6 +60,19 @@ If you pick one of the symbols that ship with the app for an entry, that choice
 is stored there as well. The symbols are part of the app; no image is uploaded
 and none is fetched from the internet.
 
+When you tick off a charge, or add a payment yourself, an entry is stored in the
+payment history: name, amount, currency and date. That data stays in the local
+database on your device as well.
+
+If you turn on the setting that records elapsed charges automatically, the app
+creates such entries itself, without you ticking anything off. When a
+subscription's renewal date lies in the past, it writes one entry per elapsed
+billing cycle, dated to the day that charge fell due. The values come solely
+from what you already entered for that subscription; nothing is fetched and no
+other source is consulted. The setting is off by default and can be turned off
+again at any time, at most 24 entries are added per subscription in one run, and
+an entry created this way can be edited and deleted like any other.
+
 ### 3.2 Receipts You Attach
 
 For any payment you log you can attach a receipt — typically the invoice or

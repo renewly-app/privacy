@@ -113,6 +113,16 @@ angegeben, plant Renewly zusätzlich eine Erinnerung vor diesem Datum. Auch
 dieses Datum stammt allein aus Ihrer Eingabe; Renewly kennt die Laufzeit
 Ihrer Testphase nicht und prüft sie nicht.
 
+Ist die Option eingeschaltet, verstrichene Abbuchungen automatisch zu erfassen,
+legt Renewly Einträge in der Zahlungshistorie an, ohne dass Sie sie abhaken.
+Diese Einträge beruhen auf einer Annahme: dass ein Abonnement, dessen
+Verlängerungsdatum verstrichen ist, auch tatsächlich abgebucht wurde. Renewly
+hat keinen Zugriff auf Ihr Konto und kann das nicht überprüfen. Ein automatisch
+erzeugter Eintrag ist deshalb kein Nachweis dafür, dass eine Zahlung
+stattgefunden hat, und der ausgewiesene Betrag ist der zuletzt von Ihnen
+eingetragene Preis, nicht notwendig der tatsächlich abgebuchte. Maßgeblich sind
+allein Ihre Kontoauszüge und die Abrechnungen Ihres Anbieters.
+
 Renewly kündigt keine Abonnements. Die App erinnert lediglich; die
 Kündigung müssen Sie selbst gegenüber dem jeweiligen Anbieter erklären.
 

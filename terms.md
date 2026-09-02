@@ -105,6 +105,15 @@ Renewly schedules an additional reminder ahead of that date. That date, too,
 comes solely from what you enter: Renewly does not know how long your trial
 runs and does not verify it.
 
+If the setting that records elapsed charges automatically is switched on,
+Renewly adds entries to the payment history without you ticking them off. Those
+entries rest on an assumption: that a subscription whose renewal date has passed
+was in fact charged. Renewly has no access to your account and cannot verify
+this. An entry created that way is therefore not evidence that a payment took
+place, and the amount shown is the price you last entered, not necessarily the
+one actually charged. Only your bank statements and your provider's invoices are
+decisive.
+
 Renewly does not cancel subscriptions. The app only reminds you; you must
 give notice to the respective provider yourself.
 

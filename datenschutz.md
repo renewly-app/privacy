@@ -61,6 +61,21 @@ Wählen Sie für einen Eintrag eines der mitgelieferten Symbole, wird auch diese
 Auswahl dort gespeichert. Die Symbole sind Teil der App; es wird kein Bild
 hochgeladen und keines aus dem Netz geladen.
 
+Haken Sie eine Abbuchung ab oder tragen Sie eine Zahlung von Hand nach, wird
+dazu ein Eintrag in der Zahlungshistorie gespeichert: Name, Betrag, Währung und
+Datum. Auch diese Angaben bleiben in der lokalen Datenbank auf Ihrem Gerät.
+
+Schalten Sie in den Einstellungen die Option ein, verstrichene Abbuchungen
+automatisch zu erfassen, legt die App solche Einträge selbst an — ohne dass Sie
+etwas abhaken. Liegt das Verlängerungsdatum eines Abonnements in der
+Vergangenheit, schreibt sie für jeden verstrichenen Abrechnungszyklus einen
+Eintrag, datiert auf den jeweiligen Fälligkeitstag. Die Angaben stammen dabei
+ausschließlich aus dem, was Sie zu diesem Abonnement bereits eingetragen haben;
+es wird nichts abgerufen und keine weitere Datenquelle herangezogen. Die Option
+ist standardmäßig ausgeschaltet und jederzeit wieder abschaltbar, je Abonnement
+und Durchlauf werden höchstens 24 Einträge nachgetragen, und ein automatisch
+erzeugter Eintrag lässt sich wie jeder andere bearbeiten und löschen.
+
 ### 3.2 Von Ihnen hinterlegte Belege
 
 Zu jeder erfassten Zahlung können Sie einen Beleg hinterlegen — in der Regel
