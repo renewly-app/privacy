@@ -6,7 +6,7 @@ title: Nutzungsbedingungen – Renewly
 
 [Datenschutzerklärung](datenschutz.md) · [Impressum](impressum.md) · [English](terms.md)
 
-Stand: 1. September 2026
+Stand: 2. September 2026
 
 Diese Nutzungsbedingungen gelten für die Android-App **Renewly**
 (Paket-ID: `com.renewly.subscriptions`), angeboten von:
@@ -123,7 +123,9 @@ einem mangelhaften digitalen Produkt zustehen.
 ## 7. Lokale Daten und Datensicherung
 
 Renewly speichert Ihre Abodaten lokal auf Ihrem Gerät und lädt sie
-nicht auf Server des Anbieters hoch. Einzelheiten zur automatischen
+nicht auf Server des Anbieters hoch. Das gilt auch für Belege, die Sie zu
+einer erfassten Zahlung hinterlegen: Die App legt davon eine Kopie im
+app-eigenen Speicher ab. Einzelheiten zur automatischen
 Sicherung von Android, durch die diese Daten in Ihrem Google-Konto
 gesichert werden können, finden Sie in unserer
 [Datenschutzerklärung](datenschutz.md).
@@ -135,6 +137,16 @@ deinstallieren, Ihr Gerät verlieren oder wechseln, die Daten der App
 löschen oder lokal gespeicherte Daten auf andere Weise entfernen.
 
 Verlassen Sie sich bitte nicht allein auf Renewly, wenn es um vertragliche Verpflichtungen aus Abonnements oder andere wichtige Angaben geht.
+
+Das gilt unverändert auch dann, wenn Sie einen Beleg in der App hinterlegt
+haben. Die App speichert dabei lediglich eine Kopie einer Datei; sie prüft
+deren Inhalt nicht, bestätigt ihn nicht und macht ihn nicht beweiskräftig. Eine
+solche Kopie ist kein rechtsgültiger Zahlungsnachweis gegenüber einem
+Anbieter, einer Bank, einem Finanzamt oder einer anderen Stelle und ersetzt
+weder das Original noch eine Dokumentation, die eine dieser Stellen verlangt.
+Ob ein Dokument als Nachweis anerkannt wird, richtet sich allein nach den
+Anforderungen der jeweiligen Stelle, nicht nach dieser App. Bewahren Sie die
+Originale deshalb unabhängig von der App auf.
 
 Dieser Abschnitt beschränkt keine zwingenden gesetzlichen Rechte, die
 Ihnen im Zusammenhang mit einem mangelhaften digitalen Produkt zustehen.

@@ -6,7 +6,7 @@ title: Terms of Use – Renewly
 
 [Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](nutzungsbedingungen.md)
 
-Last updated: September 1, 2026
+Last updated: September 2, 2026
 
 These Terms of Use apply to the Android app **Renewly** (package ID:
 `com.renewly.subscriptions`), provided by:
@@ -115,7 +115,9 @@ digital product.
 ## 7. Local Data and Data Preservation
 
 Renewly stores the subscription data you enter locally on your device
-and does not upload it to servers operated by the developer. Please
+and does not upload it to servers operated by the developer. The same
+applies to a receipt you attach to a logged payment: the app keeps a copy
+of it in its own private storage. Please
 see our [Privacy Policy](index.md) for details on Android's Auto
 Backup feature, which may back up this data to your Google Account.
 
@@ -126,6 +128,15 @@ data, or otherwise remove locally stored data.
 
 We recommend not relying on Renewly as your sole record of contractual
 subscription obligations or other important information.
+
+This applies unchanged when you have attached a receipt in the app. The
+app merely stores a copy of a file; it does not check its contents,
+does not confirm them, and does not give them evidentiary weight. Such
+a copy is not a legally valid proof of payment towards a provider, a
+bank, a tax authority, or any other party, and it replaces neither the
+original nor any documentation such a party requires. Whether a document
+is accepted as proof is determined solely by that party's requirements,
+not by this app. Please keep the originals independently of the app.
 
 This section does not limit any mandatory statutory rights you may
 have in relation to a defective digital product.
