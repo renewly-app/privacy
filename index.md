@@ -16,7 +16,7 @@ This privacy policy applies to the Android app **Renewly**
 Robert Peringer  
 Ittlinger Hauptstraße 17  
 94315 Straubing  
-Germany  
+Germany
 
 Email: FsNaviVfr@gmail.com
 

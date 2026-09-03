@@ -14,7 +14,7 @@ These Terms of Use apply to the Android app **Renewly** (package ID:
 Robert Peringer  
 Ittlinger Hauptstraße 17  
 94315 Straubing  
-Germany  
+Germany
 
 Email: FsNaviVfr@gmail.com
 
